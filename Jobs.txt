@@ -1,0 +1,193 @@
+1,Acoustic Engineer
+2,Addiction Practitioner
+3,Alcohol & Drug Clinician
+4,Ambulance Paramedic
+5,Anaesthetic Technician
+6,Anaesthetist
+7,Analyst Programmer
+8,Audiologist
+9,Audiometrist
+10,Automotive Electrician
+11,Backhoe Operator
+12,Building Associate (Building Construction Supervisor)
+13,Bulldozer Operator
+14,Cardiologist
+15,Cardiothoracic Surgeon
+16,Careers Counsellor
+17,Chemical Engineer
+18,Chief Information Officer
+19,Chiropractor
+20,Civil Engineer
+21,Civil Engineering Technician
+22,Clinical Dental Technician (Dental Prosthetist)
+23,Clinical Haematologist
+24,Clinical Psychologist
+25,Clinical Physiologist
+26,Construction Project Manager
+27,Counsellors nec
+28,Crane Operator
+29,Dairy Cattle Farmer
+30,Dairy Cattle Farm Manager
+31,Dairy Farm Manager
+32,Assistant Dairy Farm Manager
+33,Dairy Herd Manager
+34,Dental Specialist
+35,Dental Technician
+36,Dental Therapist
+37,Dentist
+38,Dental Practitioner
+39,Dental Surgeon
+40,Dermatologist
+41,Developer Programmer
+42,Diagnostic and Interventional Radiologist
+43,Diesel Motor Mechanic (including Heavy Vehicle Inspector)
+44,Dietician
+45,Dispensing Optician
+46,Drainlayer
+47,Drug and Alcohol Counsellor
+48,Earthmoving Plant Operator (General)
+49,Early Childhood (Pre-primary School) Teacher – registered
+50,Educational Psychologist
+51,Electrical Engineer
+52,Electrical Engineering Technician
+53,Electrician (general)
+54,Electronic Engineering Technician
+55,Electronics Engineer
+56,Emergency Medicine Specialist
+57,Endocrinologist
+58,Endodontist
+59,Enrolled Nurse (Nursing Assistant)
+60,Environmental Engineer
+61,Environmental Research Scientist
+62,Excavator Operator
+63,External Auditor
+64,Family and Marriage Counsellor
+65,Food Technologist
+66,Gasfitter
+67,Gastroenterologist
+68,General Practitioner
+69,Genetic Counsellor
+70,Geotechnical Engineer
+71,Grader Operator
+72,Hospital Pharmacist
+73,ICT Managers nec
+74,ICT Project Manager
+75,ICT Security Specialist
+76,Industrial Pharmacist
+77,Industrial Engineer
+78,Intensive Care Specialist
+79,Internal Auditor
+80,Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)
+81,Loader Operator
+82,Magnetic Resonance Imaging Technologist
+83,Materials Engineer
+84,Mechanical Engineer
+85,Mechatronics Engineer
+86,Medical Imaging Technologist
+87,Medical Laboratory Pre-Analytical Technician
+88,Medical Laboratory Scientist
+89,Medical Laboratory Technician
+90,Medical Oncologist
+91,Medical Practitioners nec
+92,Medical Radiation Therapist
+93,Middle School Teacher / Intermediate School Teacher
+94,Midwife
+95,Motor Mechanic (General)
+96,Motorcycle Mechanic
+97,Multimedia Specialist
+98,Neurologist
+99,Neurosurgeon
+100,Nuclear Medicine Technologist
+101,Nurse Practitioner
+102,Obstetrician and Gynaecologist
+103,Occupational Therapist
+104,Operating Theatre Technician (Sterile Processing Technician)
+105,Optometrist
+106,Ophthalmologist
+107,Oral and Maxillofacial Surgeon
+108,Oral Health Therapist
+109,Oral Medicine Specialist
+110,Oral Pathologist
+111,Oral Surgery Specialist
+112,Organisational Psychologist
+113,Orthopaedic Surgeon
+114,Orthodontist
+115,Orthoptist
+116,Orthotic and Prosthetic Technician
+117,Orthotist or Prosthetist
+118,Osteopath
+119,Other Spatial Scientist
+120,Otorhinolaryngologist
+121,Paediatric Surgeon
+122,Paediatrician
+123,Paedodontist
+124,Pathologist
+125,Perfusionist (Cardiac)
+126,Periodontist
+127,Physicist (Medical)
+128,Physiotherapist
+129,Plastic and Reconstructive Surgeon
+130,Play Therapist (Hospital)
+131,Plumber (General)
+132,Podiatrist
+133,Pouako Kura Kaupapa Māori (Māori-medium Primary School Senior Teacher)
+134,Primary School Teacher
+135,Product Design Engineer
+136,Production or Plant Engineer
+137,Project Builder
+138,Building Project Manager
+139,Site Foreman
+140,Prosthodontist
+141,Psychiatrist
+142,Psychologists nec
+143,Psychotherapist
+144,Public Health Dentistry Specialist
+145,Quantity Surveyor
+146,Radiation Oncologist
+147,Registered Nurse (Aged Care)
+148,Registered Nurse (Child and Family Health)
+149,Registered Nurse (Community Health)
+150,Registered Nurse (Critical Care and Emergency)
+151,Registered Nurse (Developmental Disability)
+152,Registered Nurse (Disability and Rehabilitation)
+153,Registered Nurse (Medical Practice)
+154,Registered Nurse (Medical)
+155,Registered Nurse (Mental Health)
+156,Registered Nurse (Paediatrics)
+157,Registered Nurse (Perioperative)
+158,Registered Nurse (Surgical)
+159,Registered Nurses nec
+160,Rehabilitation Counsellor
+161,Renal Medicine Specialist
+162,Resident Medical Officer
+163,Restorative Dentistry Specialist
+164,Rheumatologist
+165,Retail Pharmacist
+166,School Principal
+167,Secondary School Teacher
+168,Halal Slaughterer
+169,Social Worker
+170,Software and Applications Programmers nec
+171,Software Engineer
+172,Software Tester
+173,Sonographer
+174,Specialist Physician (General Medicine)
+175,Specialist Physician nec
+176,Special Needs Dentistry Specialist
+177,Special Needs Teacher
+178,Special Education Teachers nec
+179,Speech Language Therapist
+180,Student Counsellor
+181,Structural Engineer
+182,Surgeon (General)
+183,Surveyor
+184,Teacher of English to Speakers of Other Languages
+185,Teacher of the Hearing Impaired
+186,Teacher of the Sight Impaired
+187,Telecommunications Engineer
+188,Telecommunications Network Engineer
+189,Telecommunications Technician
+190,Thoracic Medicine Specialist
+191,Urologist
+192,Vascular Surgeon
+193,Veterinarian
